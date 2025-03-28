@@ -123,6 +123,13 @@ input:focus, input:hover{
   color: var(--button-color);
 }
 
+span.error{
+  color: #ed3a5a;
+  font-size: 14px;
+}
+
+input.error
+
 .s-img {
   background: url("./assets/background.png") center/cover;
   flex: 1;
